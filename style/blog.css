@@ -17,12 +17,6 @@ p{
 }
 
 h1{
-    box-shadow: 5px 5px 60px rgb(16, 18, 18);
-    background-color: whitesmoke;
-    border-radius: 3px;
-    transition: 1s;
-    padding: 11px;
-    width: 80%;
-    margin: 20px auto;
-  
+   text-align: center;
+   color: blue;
 }
